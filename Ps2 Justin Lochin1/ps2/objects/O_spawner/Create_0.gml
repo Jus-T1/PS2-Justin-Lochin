@@ -11,4 +11,5 @@ path_start(Path1, 50, path_action_continue, true);
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 4FEFFF70
-alarm_set(0, 30);
+/// @DnDArgument : "steps" "250"
+alarm_set(0, 250);

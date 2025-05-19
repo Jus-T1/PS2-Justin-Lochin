@@ -1,4 +1,6 @@
-/// @DnDAction : YoYo Games.Rooms.Next_Room
+/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 /// @DnDVersion : 1
-/// @DnDHash : 703D9298
-room_goto_next();
+/// @DnDHash : 79B18667
+/// @DnDArgument : "room" "Room2"
+/// @DnDSaveInfo : "room" "Room2"
+room_goto(Room2);
