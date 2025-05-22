@@ -10,4 +10,5 @@ instance_create_layer(x + 0, y + 0, "Instances", O_munition_cannon);
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 7E94EA34
-alarm_set(0, 30);
+/// @DnDArgument : "steps" "100"
+alarm_set(0, 100);

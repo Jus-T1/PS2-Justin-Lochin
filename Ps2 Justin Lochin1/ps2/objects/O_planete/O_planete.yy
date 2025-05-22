@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"O_planete",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Character_Bot","path":"objects/O_Character_Bot/O_Character_Bot.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"O_planete",
   "overriddenProperties":[],

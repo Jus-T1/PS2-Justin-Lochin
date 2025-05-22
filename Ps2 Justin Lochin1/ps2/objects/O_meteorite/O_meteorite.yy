@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_Collison_Planete",
-    "path":"sprites/S_Collison_Planete/S_Collison_Planete.yy",
+    "name":"Sprite35",
+    "path":"sprites/Sprite35/Sprite35.yy",
   },
   "spriteMaskId":null,
   "visible":true,

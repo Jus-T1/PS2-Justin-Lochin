@@ -10,3 +10,13 @@ direction = point_direction(x, y, O_Character_Astro.x, O_Character_Astro.y);
 /// @DnDHash : 49B78746
 /// @DnDArgument : "speed" "5"
 speed = 5;
+
+/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDVersion : 1
+/// @DnDHash : 4182546E
+/// @DnDArgument : "code" "knockback_speed = 0;$(13_10)$(13_10)knockback_direction = 0;$(13_10)$(13_10)knockback_timer = 0;$(13_10)$(13_10)"
+knockback_speed = 0;
+
+knockback_direction = 0;
+
+knockback_timer = 0;
