@@ -63,6 +63,8 @@
     {"name":"S_Collison_Planete","order":2,"path":"sprites/S_Collison_Planete/S_Collison_Planete.yy",},
     {"name":"S_cristal","order":10,"path":"sprites/S_cristal/S_cristal.yy",},
     {"name":"S_ecrous","order":16,"path":"sprites/S_ecrous/S_ecrous.yy",},
+    {"name":"S_enem_lune","order":33,"path":"sprites/S_enem_lune/S_enem_lune.yy",},
+    {"name":"S_enemi_lune_verso","order":34,"path":"sprites/S_enemi_lune_verso/S_enemi_lune_verso.yy",},
     {"name":"S_HP_Bar","order":4,"path":"sprites/S_HP_Bar/S_HP_Bar.yy",},
     {"name":"S_jeyser","order":22,"path":"sprites/S_jeyser/S_jeyser.yy",},
     {"name":"S_mur_tuto","order":25,"path":"sprites/S_mur_tuto/S_mur_tuto.yy",},

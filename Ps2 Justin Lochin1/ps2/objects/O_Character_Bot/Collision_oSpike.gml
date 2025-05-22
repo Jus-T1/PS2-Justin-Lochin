@@ -12,10 +12,9 @@ script_execute(Script1);
 image_blend = $FF6565FF & $ffffff;
 image_alpha = ($FF6565FF >> 24) / $ff;
 
-/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
-/// @DnDHash : 31DD783B
-/// @DnDArgument : "expr" "-1"
-/// @DnDArgument : "expr_relative" "1"
-/// @DnDArgument : "var" "hp"
-hp += -1;
+/// @DnDHash : 11DFECC1
+/// @DnDArgument : "steps" "50"
+/// @DnDArgument : "alarm" "1"
+alarm_set(1, 50);

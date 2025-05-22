@@ -10,5 +10,5 @@ var l51126CDD_0 = instance_place(x + 0, y + 0, [Object6]);if ((l51126CDD_0 > 0)
 	/// @DnDHash : 285887E2
 	/// @DnDApplyTo : {O_Character_Bot}
 	/// @DnDParent : 51126CDD
-	/// @DnDArgument : "speed" "-2"
-	with(O_Character_Bot) speed = -2;}
+	/// @DnDArgument : "speed" "-1.5"
+	with(O_Character_Bot) speed = -1.5;}
